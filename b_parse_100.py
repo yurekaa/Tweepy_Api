@@ -1,6 +1,6 @@
 #--------------------------------------------------------------------------#
 #                             Created/Credited by                          #
-#                      Kibeom Alex Hong & Sol Peter Won                    #
+#                             Kibeom Alex Hong                             #
 #--------------------------------------------------------------------------#
 
 # This code parses your list of IDs into different groups in text file
